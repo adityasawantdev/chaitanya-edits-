@@ -31,11 +31,7 @@ Designed with a luxury **black & gold** aesthetic, smooth animations, and a full
 
 ## 🚀 Live Demo
 
-*(Add your GitHub Pages link here after publishing)*
 
-Example:
-
-https://yourusername.github.io/chaitanya-edits/
 
 ---
 
