@@ -37,7 +37,7 @@ Designed with a luxury **black & gold** aesthetic, smooth animations, and a full
 
 ## 📸 Preview
 
-*(Add screenshots here later)*
+
 
 ---
 
